@@ -23,7 +23,7 @@ def exibicao_banner():
 
 def exibicao_rodape():
     print("====================================================")
-    print(" Horizon Bank 2026 | Transparencia | Carreira | SAC ")
+    print(" Horizon Bank 2026 | Transparencia | Carreira | SAC 0800 3132 0080 ")
     print("====================================================")
 
 def abrir_conta():
