@@ -62,7 +62,7 @@ def mostrar_saldo(cliente):
     if opcao == "1":
         valor = float(input("Valor do depósito: R$ "))
         cliente[2] += valor
-        print(f"[✓] Depósito realizado! Novo saldo: R$ {cliente[2]:.2f}")
+        print(f"[✓] Depósito realizado com sucesso! Novo saldo: R$ {cliente[2]:.2f}")
 
 def menu_principal():
     while True:
