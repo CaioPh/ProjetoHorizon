@@ -92,7 +92,7 @@ def menu_principal():
             abrir_conta()
 
         elif opcao == "3":
-            print("Até logo!")
+            print("Execução finalizada com sucesso. Até a próxima!")
             break
 
         input("\nPressione ENTER para continuar...")
