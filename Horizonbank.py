@@ -5,8 +5,8 @@ import datetime
 import random  #random é utilizada para gerar automaticamente o número da conta.
 
 clientes = [
-    ["11111111111", "Carlos Silva", 1500.0],
-    ["22222222222", "Ana Souza", 350.0]
+    ["11111111111", "José da Silva", 1500.0],
+    ["22222222222", "Maria da silva", 350.0]
 ]
 
 # Dicionário para armazenar dados extras da conta
